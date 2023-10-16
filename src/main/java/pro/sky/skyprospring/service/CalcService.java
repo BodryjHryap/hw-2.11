@@ -1,4 +1,4 @@
-package pro.sky.skyprospring;
+package pro.sky.skyprospring.service;
 
 import org.springframework.stereotype.Service;
 
